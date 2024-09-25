@@ -1,9 +1,8 @@
 {
-    "rewrites": [
-      {
-        "source": "/contact-us",
-        "destination": "/lista-espera"
-      }
-    ]
-  }
-  
+  "rewrites": [
+    {
+      "source": "/contact-us.html",
+      "destination": "/lista-espera"
+    }
+  ]
+}
