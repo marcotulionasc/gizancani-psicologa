@@ -8,5 +8,18 @@
       "source": "/",
       "destination": "/index.html"
     }
+  ],
+
+  "redirects": [
+    {
+      "source": "/contact-us.html",
+      "destination": "/lista-espera",
+      "statusCode": 301
+    },
+    {
+      "source": "/",
+      "destination": "/index.html",
+      "statusCode": 301
+    }
   ]
 }
