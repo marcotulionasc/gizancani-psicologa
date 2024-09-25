@@ -3,6 +3,10 @@
     {
       "source": "/contact-us.html",
       "destination": "/lista-espera"
+    },
+    {
+      "source": "/",
+      "destination": "/index.html"
     }
   ]
 }
